@@ -17,7 +17,7 @@ Ns 16
 Ks 1 1 1
 adobe_glow 0
 
-newmtl bottle_sprayLid_lid_mat
+newmtl bottle_sprayLid_lid_glass
 illum 7
 Kd 0.721217 0.718644 0.735357
 adobe_interior_color 1 1 1
