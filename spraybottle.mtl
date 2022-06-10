@@ -1,7 +1,7 @@
 newmtl Bottle Spray Lid Lid Glass Mat
 illum 7
-Kd 1 1 1
-adobe_interior_color 0.280828 0.280828 0.280828
+Kd 0.086275 0.305882 0.960784
+adobe_interior_color 1 1 1
 Ni 1.45
 adobe_density 0.1
 Tr .9
