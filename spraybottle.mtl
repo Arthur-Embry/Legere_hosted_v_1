@@ -38,8 +38,8 @@ Kd 0.086275 0.305882 0.960784
 adobe_interior_color 1 1 1
 Ni 2.6
 adobe_density 0.19
-Tr 0
-d 1
+Tr .5
+d .5
 Ka 0 0 0
 Ke 0 0 0
 Pm 0
