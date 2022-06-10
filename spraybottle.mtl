@@ -1,0 +1,50 @@
+newmtl Bottle Spray Lid Lid Glass Mat
+illum 7
+Kd 1 1 1
+adobe_interior_color 0.280828 0.280828 0.280828
+Ni 1.45
+adobe_density 0.1
+Tr 0
+d 1
+Ka 0 0 0
+Ke 0 0 0
+Pm 0
+adobe_translucence 1
+Pr 0.0532
+Ns 16
+Ks 1 1 1
+adobe_glow 0
+
+newmtl bottle_sprayLid_lid_mat
+illum 7
+Kd 0.721217 0.718644 0.735357
+adobe_interior_color 1 1 1
+Ni 1.6
+adobe_density 0
+Tr 0
+d 1
+Ka 0 0 0
+Ke 0 0 0
+Pm 0
+adobe_translucence 0
+Pr 0.2991
+Ns 16
+Ks 1 1 1
+adobe_glow 0
+
+newmtl Glass
+illum 7
+Kd 0.086275 0.305882 0.960784
+adobe_interior_color 1 1 1
+Ni 2.6
+adobe_density 0.19
+Tr 0
+d 1
+Ka 0 0 0
+Ke 0 0 0
+Pm 0
+adobe_translucence 1
+Pr 0
+Ns 16
+Ks 1 1 1
+adobe_glow 0
